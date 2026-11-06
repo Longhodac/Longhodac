@@ -1,5 +1,7 @@
 # Hi, I'm Long
 
+Portfolio: https://long-portfolio-ten.vercel.app/
+
 CS student at UC San Diego. I've interned at Workday, IBM, and an early-stage startup, and I'm currently a Software Developer Intern at IBM.
 
 Most of my work has been in AI engineering:
